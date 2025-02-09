@@ -1,0 +1,18 @@
+1. write 'npm run dev' in terminal, press enter and follow the link of Local to see ur website
+2. here we have configured tailwind CSS with our React App
+3. to add symbols we imported React symbols and to add animation we used framerMotionLibrary
+start from 16:33
+
+4. steps to push project on github: create new repo, don't add readme file
+ write in terminal one by one folowing commnads:
+ 1. git init .
+ 2. git add .
+ 3. git commit -am "first commit"
+ 4. write the 3 main commands:
+ from:
+…or push an existing repository from the command line
+git remote add origin https://github.com/shaktipriya13/trial.git
+git branch -M main
+git push -u origin main
+
+after this ur project will be pushed
