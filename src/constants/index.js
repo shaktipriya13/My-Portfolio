@@ -80,7 +80,7 @@ export const PROJECTS = [
     title: "Food-Ordering Website",
     image: project1,
     description:
-      "\"My Meal\"🍔🥂 is a dynamic and engaging front-end web application designed to offer a interactive experience for users seeking meal inspiration and recipes.",
+      "SnapEats🍔🥂is a modern food ordering web application built using React, Tailwind CSS, and React Toasts. The platform provides a seamless user experience for browsing, selecting, and ordering food items online.",
     technologies: ["HTML", "CSS", "React"],
     live: "https://snap-eats.netlify.app/",
     github: "https://github.com/shaktipriya13/Food-Delivery-website",
