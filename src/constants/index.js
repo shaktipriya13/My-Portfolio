@@ -1,6 +1,6 @@
 import project1 from "../assets/projects/project-1.png";
 import project2 from "../assets/projects/project-2.png";
-import project3 from "../assets/projects/project-3.png";
+import project3 from "../assets/projects/project 3.png";
 import project4 from "../assets/projects/project-4.png";
 import project5 from "../assets/projects/project-5.png";
 
@@ -69,7 +69,7 @@ export const PROJECTS = [
 
   {
     title: "Employee Management System",
-    image: project1,
+    image: project3,
     description:
       "Developed a scalable and secure MERN stack application to streamline HR operations, enabling efficient employee data management, attendance tracking, and performance monitoring. Implemented role-based access control (RBAC) and JWT authentication to enhance security.",
     technologies: ["MERN"],
