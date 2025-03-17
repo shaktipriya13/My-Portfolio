@@ -65,23 +65,16 @@ export const EXPERIENCES = [
 ];
 
 export const PROJECTS = [
+
+
   {
-    title: "Travel Website",
-    image: project5,
+    title: "Employee Management System",
+    image: project1,
     description:
-      "Responsive Travel Landing Page for Showcasing Destinations and Experiences",
-    technologies: ["HTML", "CSS", "Javascript"],
-    live: "https://travelia-tours-shaktip.netlify.app/", // Replace with your actual live site URL
-    github: "https://github.com/shaktipriya13/Travelia", // Replace with your actual GitHub repo URL
-  },
-  {
-    title: "Portfolio Website",
-    image: project3,
-    description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap", "Tailwind"],
-    live: "https://shaktipriya.netlify.app/", // Replace with your actual live site URL
-    github: "https://github.com/shaktipriya13/portfolio", // Replace with your actual GitHub repo URL
+      "Developed a scalable and secure MERN stack application to streamline HR operations, enabling efficient employee data management, attendance tracking, and performance monitoring. Implemented role-based access control (RBAC) and JWT authentication to enhance security.",
+    technologies: ["MERN"],
+    live: "https://ems-frontend-navy.vercel.app/login",
+    github: "https://github.com/shaktipriya13/EMS",
   },
   {
     title: "Food-Ordering Website",
@@ -89,7 +82,7 @@ export const PROJECTS = [
     description:
       "\"My Meal\"🍔🥂 is a dynamic and engaging front-end web application designed to offer a interactive experience for users seeking meal inspiration and recipes.",
     technologies: ["HTML", "CSS", "React"],
-    live: "https://my-meal-food-delivey.netlify.app/",
+    live: "https://snap-eats.netlify.app/",
     github: "https://github.com/shaktipriya13/Food-Delivery-website",
   },
   {
@@ -100,6 +93,15 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS", "JavaScript"],
     live: "https://random-quote-generator-site.netlify.app/",
     github: "https://github.com/shaktipriya13/Project_Random-Quote-Generator",
+  },
+  {
+    title: "Travel Website",
+    image: project5,
+    description:
+      "Responsive Travel Landing Page for Showcasing Destinations and Experiences",
+    technologies: ["HTML", "CSS", "Javascript"],
+    live: "https://travelia-tours-shaktip.netlify.app/", // Replace with your actual live site URL
+    github: "https://github.com/shaktipriya13/Travelia", // Replace with your actual GitHub repo URL
   },
   {
     title: "Netflix Clone",
