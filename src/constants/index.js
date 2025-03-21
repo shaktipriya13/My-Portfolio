@@ -3,6 +3,8 @@ import project2 from "../assets/projects/project-2.png";
 import project3 from "../assets/projects/project 3.png";
 import project4 from "../assets/projects/project-4.png";
 import project5 from "../assets/projects/project-5.png";
+import project6 from "../assets/projects/project6.jpeg";
+import project7 from "../assets/projects/project7.jpeg";
 
 export const HERO_CONTENT = `Hey there! I'm Shakti Priya, an aspiring software engineer with a keen interest in crafting exceptional web experiences. With expertise in the MERN stack (MongoDB, Express.js, React, and Node.js), I thrive on bringing ideas to life through clean, efficient, and scalable code. My journey in software development began with a curiosity to understand how technology shapes our world. Since then, I've immersed myself in the world of web development, honing my skills in both front-end and back-end technologies. Let's connect and create something amazing together!`;
 
@@ -66,6 +68,26 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
 
+
+  {
+    title: "AI Mock Interviewer",
+    image: project6,
+    description:
+      "🎯 Developed an AI-powered mock interview platform that generates role-specific questions using OpenAI and provides real-time evaluation.📹 Implemented live interview simulations with webcam & microphone support, offering instant AI - driven feedback & analytics.",
+    technologies: ["React", "Node.js", "PostgreSQL", "OpenAI", "Cloudinary", "JWT", "WebSockets"],
+    live: "https://ai-interview-mocker-delta.vercel.app/",
+    github: "https://github.com/shaktipriya13/AI-Mock-Interviewer",
+  },
+
+  {
+    title: "WhatsApp AI Clone",
+    image: project7,
+    description:
+      "🤖 Built an AI-powered chat platform with GPT & DALL·E 3, featuring real-time updates, video calls, and secure authentication.🎥 Integrated high - quality video & voice calls via Zegocloud, including screen sharing for seamless collaboration.🔄 Utilized Convex for real - time updates, ensuring a smooth messaging experience.",
+    technologies: ["Next.js", "Tailwind CSS", "TypeScript", "Convex", "OpenAI", "Zegocloud", "Clerk"],
+    live: "https://bursting-mammal-96.accounts.dev/sign-in?redirect_url=https%3A%2F%2Fwhats-app-clone-ai-integrated.vercel.app%2F",
+    github: "https://github.com/shaktipriya13/WhatsApp-Clone-Ai_Integrated",
+  },
 
   {
     title: "Employee Management System",
